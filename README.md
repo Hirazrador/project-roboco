@@ -1,2 +1,2 @@
 # project roboco
- Discord bot for personal server moderation and small games
+ Discord bot built using PyCord for personal server moderation and small games
