@@ -9,5 +9,5 @@ class MyClient(discord.Client):
         print(f'Message from {message.author}: {message.content}')
 
 client = MyClient()
-client.run('OTY3MTEzOTEwMTg2NTY1Njk0.Gx6KGb.PsSrdrMzUmJMB_JuNLdBufsyHmf_7_sYb8TIEI')
+client.run('token')
 
